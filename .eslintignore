@@ -1,0 +1,10 @@
+.gitattributes
+.github/
+.gitignore
+.husky/
+.npmignore
+.prettierignore
+.prettierrc
+LICENSE
+README.md
+node_modules/
