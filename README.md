@@ -1,26 +1,9 @@
-# Mina zkApp: 01 Hello World
+# Mina simple square of two numbers
 
-This template uses TypeScript.
+This is a tutorial on how the square of number mina apps
 
-## How to build
-
-```sh
-npm run build
-```
-
-## How to run tests
+## How to build and run a smart
 
 ```sh
-npm run test
-npm run testw # watch mode
+yarn run build && node build/src/main.js
 ```
-
-## How to run coverage
-
-```sh
-npm run coverage
-```
-
-## License
-
-[Apache-2.0](LICENSE)
