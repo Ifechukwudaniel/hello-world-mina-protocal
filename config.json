@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "deployAliases": {}
+  "deployAliases": {
+    "square": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/square.json",
+      "feepayerKeyPath": "/Users/emmanuelpepple/.cache/zkapp-cli/keys/squareapp.json",
+      "feepayerAlias": "squareapp",
+      "fee": "0.1",
+      "smartContract": "Square"
+    }
+  }
 }
